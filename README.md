@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔧 What I do:<br><br>Build websites using the MERN stack <br>Work on both frontend (React, Next.js, Tailwind) and backend (Node.js) features<br><br>Solve problems in C++ with strong DSA skills<br><br>Work with databases like  MySQL and Excel<br><br>🌱 Currently learning:<br><br>Express.js and MongoDB to get better at backend stuff<br><br>Authentication, APIs, and building secure flows<br><br>State management in React (Context API, Redux)<br><br>💬 Fun facts:<br><br>I love leading teams, mentoring beginners, and organizing projects<br><br>I’m confident on stage — whether it’s hosting, anchoring, or just vibing with a crowd<br><br>Always looking to build something useful and learn something new<br><br>📫 Let’s connect: Check out my work, drop a star if you like anything, or feel free to reach out for a collab!</p>
+<p align="left">🔧 What I do:<br><br>Build websites using the MERN stack <br>Work on both frontend (React) and backend (Node.js) features<br><br>Solve problems in C++ with strong DSA skills<br><br>Work with databases like  MySQL and Excel<br><br>🌱 Currently learning:<br><br>Express.js and MongoDB to get better at backend stuff<br><br>Authentication, APIs, and building secure flows<br><br>State management in React (Context API, Redux)<br><br>💬 Fun facts:<br><br>I love leading teams, mentoring beginners, and organizing projects<br><br>I’m confident on stage — whether it’s hosting, anchoring, or just vibing with a crowd<br><br>Always looking to build something useful and learn something new<br><br>📫 Let’s connect: Check out my work, drop a star if you like anything, or feel free to reach out for a collab!</p>
 
 ###
 
